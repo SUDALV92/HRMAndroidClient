@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMAndroidClient.Android", "HRMAndroidClient\HRMAndroidClient.Android\HRMAndroidClient.Android.csproj", "{3FF39ECD-934C-42A7-8277-1A62B465CAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMAndroidClient", "HRMAndroidClient\HRMAndroidClient\HRMAndroidClient.csproj", "{AFC73179-F147-41CC-9DCC-4636F09DF584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF39ECD-934C-42A7-8277-1A62B465CAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF39ECD-934C-42A7-8277-1A62B465CAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF39ECD-934C-42A7-8277-1A62B465CAC1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3FF39ECD-934C-42A7-8277-1A62B465CAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF39ECD-934C-42A7-8277-1A62B465CAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF39ECD-934C-42A7-8277-1A62B465CAC1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AFC73179-F147-41CC-9DCC-4636F09DF584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC73179-F147-41CC-9DCC-4636F09DF584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC73179-F147-41CC-9DCC-4636F09DF584}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AFC73179-F147-41CC-9DCC-4636F09DF584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC73179-F147-41CC-9DCC-4636F09DF584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC73179-F147-41CC-9DCC-4636F09DF584}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF21EBB5-FB08-4CAC-94CC-0407D5662B6B}
+	EndGlobalSection
+EndGlobal
